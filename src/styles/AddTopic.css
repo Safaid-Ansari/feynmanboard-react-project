@@ -1,0 +1,19 @@
+.ourContainer {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    right: 5%;
+}
+
+.landingButton {
+    background-color: brown;
+}
+
+input {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+textarea {
+
+    font-family: 'Courier New', Courier, monospace;
+}
