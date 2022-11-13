@@ -3,19 +3,6 @@
 ## _NodeJs, MongoDB and ReactJs based project._
 
 
-## APIs using NodeJs
-- post api for create new topic
-- get api for fetching all document from mongodb
-
-## Frontend with ReactJs
-- landing page
-- dashboard page
-- add topic page
-
-## Routes and how to start
-API
-- link: 
-
 REACTJS
 - link:
 
@@ -25,19 +12,8 @@ REACTJS
 - MongoDB
 - ReactJs
 
-# Screenshots
-# Landing Page
-![image](https://github.com/Yashaswi-Anand/FeynmanBoardProject/blob/master/screenshots/landingpage.png)
 
-# Dashboard
-![image](https://github.com/Yashaswi-Anand/FeynmanBoardProject/blob/master/screenshots/dashboard.png)
 
-# add topic page
-![image](https://github.com/Yashaswi-Anand/FeynmanBoardProject/blob/master/screenshots/addtopic.png)
-
-# Project Link:
-- Doc link: https://drive.google.com/file/d/1AY8ndLweAYY2P58ERPl8q6kWy36PAdKy/view?usp=share_link
-- React link: https://github.com/Yashaswi-Anand/feynmanboard-react-project
 
 
 
